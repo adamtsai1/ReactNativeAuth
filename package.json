@@ -7,12 +7,17 @@
     "test": "jest"
   },
   "dependencies": {
+    "firebase": "^4.12.1",
     "react": "16.3.1",
     "react-native": "0.55.2"
   },
   "devDependencies": {
     "babel-jest": "22.4.3",
     "babel-preset-react-native": "4.0.0",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-compat": "^2.2.0",
+    "eslint-plugin-import": "^2.11.0",
     "jest": "22.4.3",
     "react-test-renderer": "16.3.1"
   },
